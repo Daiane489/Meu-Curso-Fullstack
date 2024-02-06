@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    gap:5px;
+    width:auto;
+}
+
+h1{
+    color: blue;
+}
+
+.titulo{
+    color: aqua;
+}
+
+.Div{
+    border: 1px;
+    background-color: darkviolet;
+    width: fit-content;
+    padding: 10px;
+}
