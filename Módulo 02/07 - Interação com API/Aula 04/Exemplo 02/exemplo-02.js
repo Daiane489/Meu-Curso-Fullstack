@@ -15,24 +15,24 @@ async function procurar(){
                     width= "auto" 
                     height= "150"
                 >
-                <p class="titulo"> 
+                <p class="titulo">      
                     ${produtos[produto].nome} 
                 </p>
                 <p>
                     ${produtos[produto].descricao}
                 </p>
                 <div class= "valores">
-                    <span>    
+                    <span class= "valorCom">    
                       R$ ${produtos[produto].valorComDesconto}
                     </span>
-                    <span> 
+                    <span class= "valorSem"> 
                         R$ ${produtos[produto].valorSemDesconto}
                     </span>
-                    <p> 
-                        ${produtos[produto].tipoEntrega}
-                    </p>
                 </div>
-            </div>
+                <p> 
+                    ${produtos[produto].tipoEntrega}
+                </p>
+             </div>
             `
     }
 }

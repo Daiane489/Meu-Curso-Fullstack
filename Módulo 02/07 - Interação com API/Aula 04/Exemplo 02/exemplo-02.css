@@ -1,16 +1,40 @@
 body{
     display: flex;
     flex-wrap: wrap;
+    column-gap: 20px;
+    row-gap: 20px;
 }
 
 .card{
     border: 1px solid #8d8989;
     width: fit-content;
     display: flex;
-    flex-direction: column;
+    flex-direction: column;      
     align-items: center;
+    padding: 0px 15px 15px 15px;
+    row-gap: 10px;
+}
+
+.valores{
+    display: flex;
+    column-gap: 10px;
+    flex-direction: row;
+}
+
+.valorCom{
+    font-size: larger;
+}
+
+.valorSem{
+    font-size: small;
+    color: red;
+    text-decoration: line-through;
 }
 
 .titulo{
-    color: aqua;
+    font-weight: bold;
+}
+
+p{
+    margin: 0px;
 }
