@@ -9,7 +9,7 @@
         {
             "img": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/11/tablet.jpg",
             "nome": "Tablet Samsung",
-            "descricao": "Design ergonômico, baixa latência e sensibilidade impressionante à pressão farão com que ela seja sua ferramenta favorita para tudo.",
+            "descricao": "Design ergonômico, sensibilidade impressionante.",
             "valor": 3479.80,
             "tipoEntrega": "RECEBA HOJE"
         },
@@ -24,28 +24,28 @@
             "img": "https://t62533.vteximg.com.br/arquivos/ids/860117-1000-1000/notebook-samsung-book-np550xdakp3br-celeron-w11-2.jpg?v=638319343735800000",
             "nome": "Notebook",
             "descricao": "Notebook Moderno, ultrafino e potente.",
-            "valor": 3000,
+            "valor": 3000.00,
             "tipoEntrega": "RECEBA HOJE"  
         },
         {
             "img": "https://images.tcdn.com.br/img/img_prod/1109317/90_smartwatch_samsung_galaxy_watch_5_40mm_prata_roxo_1685_1_fc610ea6b739be0951ce50f5fd806337.jpg",
             "nome": "Smartwatch",
             "descricao": "Um relógio inteligente com diversas funcionalidades.",
-            "valor": 300,
+            "valor": 300.00,
             "tipoEntrega": "Frete GRÁTIS"  
         },
         {
             "img": "https://files.tecnoblog.net/wp-content/uploads/2023/05/camera-dslr-canon-1.jpg",
             "nome": "Câmera DSRL",
             "descricao": "Uma câmera profissional para fotografia.",
-            "valor": 3590,
+            "valor": 3590.00,
             "tipoEntrega": "Frete GRÁTIS" 
         },
         {
             "img": "https://global.cdn.magazord.com.br/companhiadamake/img/2022/09/produto/1930/taiff-new-smart.jpg?ims=fit-in/635x865/filters:fill(white)",
             "nome": "Secador TAIFF",
             "descricao": "Potência de 1.7000W, motor AC profissional.",
-            "valor": 600,
+            "valor": 600.00,
             "tipoEntrega": "RECEBA HOJE" 
         }
 ]
