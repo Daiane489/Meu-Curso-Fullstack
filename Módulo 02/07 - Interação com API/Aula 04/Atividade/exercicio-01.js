@@ -12,7 +12,7 @@ async function procurar(){
                 <img 
                     src="${produtos[produto].img}" 
                     alt= "Não renderizou" 
-                    width= "auto" 
+                    width= "auto"
                     height= "150"
                 >
                 <p class="titulo">      

@@ -1,0 +1,50 @@
+[
+    {
+      "img": "https://alugueseudrone.com.br/wp-content/uploads/2021/07/Mini-2.jpg",
+      "nome": "Drone DJI mini 2",
+      "descricao": "Drone DJI Mini 4 Pro Fly More Combo DJI RC 2 (Com tela) - DJI043",
+      "valorComDesconto": 4250.87,
+      "valorSemDesconto": 4800.00
+    },
+
+    {
+        "img": "https://images.samsung.com/is/image/samsung/p6pim/br/sm-a146mzkgzto/gallery/br-galaxy-a14-5g-sm-a146-sm-a146mzkgzto-535246399?$650_519_PNG$",
+        "nome": "Samsung Galaxy A14",
+        "descricao": "Smartphone Samsung Galaxy A14 128GB Prata 5G Octa-Core 4GB RAM 6,6 Câm.",
+        "valorComDesconto": 874.83,
+        "valorSemDesconto": 1200.00
+    },
+
+    {
+    "img": "https://imgs.casasbahia.com.br/12731681/1xg.jpg?imwidth=500",
+    "nome": "Geladeira",
+    "descricao": "Brastemp, Voltagem 110 volts e Capacidade de 443 litros",
+    "valorComDesconto": 3000.00,
+    "valorSemDesconto": 5900.00
+    },
+
+    {
+    "img": "https://m.media-amazon.com/images/I/51HbPYIav-L._AC_SX679_.jpg",
+    "nome": "Arno Cafeteira Espresso",
+    "descricao": "Função XL prepare um extra longo com +30ml de bebida com um só clique.",
+    "valorComDesconto": 900.00,
+    "valorSemDesconto": 1005.00
+    },
+
+    {
+    "img": "https://m.media-amazon.com/images/I/41SpOECblgL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "nome": "Micro-ondas Consul",
+    "descricao": "Função Grill, consumo Aproximado de Energia (kWh): 1100 e cor Cinza",
+    "valorComDesconto": 600.00,
+    "valorSemDesconto": 800.00
+    },
+
+    {
+    "img": "https://m.media-amazon.com/images/I/517S484FWnL._AC_SX679_.jpg",
+    "nome": "Fritadeira Elétrica",
+    "descricao": "Painel Mecânico, Capacidade de 4L e 8 receitas pré-sugeridas",
+    "valorComDesconto": 405.00,
+    "valorSemDesconto": 550.00
+    }
+
+]
